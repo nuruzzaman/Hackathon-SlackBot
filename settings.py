@@ -2,7 +2,7 @@ import os
 
 # https://{$YOUR_TEAM}.slack.com/apps/manage/custom-integrations
 # Integration Settings API Token
-SLACK_TOKEN = 'xoxb-14807093232-865699947751-AALWt6dbee5MO4uF3tPLDcPT'
+SLACK_TOKEN = ''
 
 # number of workers
 MAX_WORKERS = 100
